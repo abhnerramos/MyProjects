@@ -1,0 +1,79 @@
+body{
+    color: black;
+    font-size: 25px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fotodeperfil{
+    float: right; 
+    width: 31%; 
+    border: 7px solid black; 
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+h1{
+    background-color: goldenrod;
+    color: black;
+    text-align: center;
+    font-size: larger;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    border: 7px solid black;
+}   
+
+.centralizar{
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+div {
+    color: black;
+    font-size: larger;
+    margin: 3px;
+    text-indent: 50px;
+}
+
+.pequena {
+    border: 7px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.ore {
+    width: min-content;
+    height: min-content;
+    padding: 15px;
+    box-sizing: content-box;
+    margin-top: 50px;
+    border-left: 7px solid black;
+    margin-left: 5px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.conclusao {
+    text-align-last: right;
+    margin-bottom: 20px;
+}
+
+.nav {
+    margin: 3px solid black; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
