@@ -1,0 +1,5 @@
+Bundle-Activator: com.liferay.basic.training.able.internal.activator.AbleBundleActivator
+Bundle-Name: Liferay Basic Training Baker Web
+Bundle-SymbolicName: com.liferay.basic.training.baker.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.basic.training.able.number.generator
